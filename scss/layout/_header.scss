@@ -1,0 +1,20 @@
+.site-header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: row wrap;
+	font-weight: bold;
+	color: $text;
+	background-color: $header;
+	max-height: 60px;
+	cursor: default;
+
+	.site-logo_img{
+		height: 2.5rem;
+		width: auto;
+		text-decoration: none;
+	} 
+	@media #{$med} {
+		
+	}
+}

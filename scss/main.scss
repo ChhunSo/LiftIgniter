@@ -1,2 +1,5 @@
-@import '_body',
-				'_reset';
+@import 'global/variables',
+				'global/reset',
+				'global/body';
+
+@import 'layout/header.scss'
