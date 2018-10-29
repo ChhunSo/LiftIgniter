@@ -13,11 +13,14 @@
   },
   "author": "",
   "license": "ISC",
-  "engines":{
-    "node":"10.6.0"
+  "engines": {
+    "node": "10.6.0"
   },
   "bugs": {
     "url": "https://github.com/ChhunSo/LiftIgniter/issues"
   },
-  "homepage": "https://github.com/ChhunSo/LiftIgniter#readme"
+  "homepage": "https://github.com/ChhunSo/LiftIgniter#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
